@@ -1,3 +1,7 @@
 "# Relat¢rio do Projeto" 
 "## Introduá∆o" 
 "Este relat¢rio documenta a estrutura do projeto e o uso do GitFlow na sua gest∆o." 
+"## Objetivos" 
+"- Implementar GitFlow corretamente para a gest∆o do c¢digo-fonte." 
+"- Controlar vers‰es do relat¢rio para garantir um hist¢rico detalhado." 
+"- Aplicar boas pr†ticas de colaboraá∆o em GitHub." 
