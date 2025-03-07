@@ -13,3 +13,6 @@
 "- `feature/*`: Criadas para implementar novas funcionalidades antes de serem fundidas com `develop`." 
 "- `release/*`: Criadas para preparar uma nova vers∆o antes de ser integrada na `main`." 
 "- `hotfix/*`: Utilizadas para corrigir erros cr°ticos diretamente na `main`." 
+"## Conclus∆o" 
+"A utilizaá∆o do GitFlow facilitou a gest∆o do projeto, garantindo um fluxo de trabalho organizado e eficiente." 
+"O hist¢rico de commits bem estruturado permite um melhor acompanhamento das alteraá‰es." 
