@@ -16,3 +16,5 @@
 "## Conclus∆o" 
 "A utilizaá∆o do GitFlow facilitou a gest∆o do projeto, garantindo um fluxo de trabalho organizado e eficiente." 
 "O hist¢rico de commits bem estruturado permite um melhor acompanhamento das alteraá‰es." 
+"## Revis∆o Final" 
+"Todos os requisitos do projeto foram cumpridos. O reposit¢rio est† corretamente configurado e documentado." 
